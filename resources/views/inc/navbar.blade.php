@@ -15,13 +15,10 @@
 
             <ul class="navbar-nav me-auto mb-2 mb-md-0 ml auto">
               <li class="nav-item">
-                <a class="nav-link" href="/about">Sobre</a>
+                <a class="nav-link" href="/about">Portfólio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/services">Serviços</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/posts">Blog</a>
+                <a class="nav-link" href="/services">Experiências</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/posts/create">Criar Post</a>
