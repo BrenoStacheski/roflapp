@@ -20,12 +20,6 @@
               <li class="nav-item">
                 <a class="nav-link" href="/services">Experiências</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/posts/create">Criar Post</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/home">Dashboard</a>
-              </li>
             </ul>
 
             <!-- Right Side Of Navbar -->
