@@ -13,7 +13,7 @@ class PagesController extends Controller
 
     public function portfolio() {
         $title = 'Portfólio';
-        return view('pages.about')->with('title', $title);
+        return view('pages.portfolio')->with('title', $title);
     }
 
     public function experiencias() {
@@ -37,6 +37,6 @@ class PagesController extends Controller
             pneumáticos. Identificando problemas de qualidade de produto e indicação de melhorias.
             ']
         );
-        return view('pages.services')->with($data);
+        return view('pages.experiencias')->with($data);
     }
 }
