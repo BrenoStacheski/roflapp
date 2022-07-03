@@ -11,12 +11,12 @@ class PagesController extends Controller
         return view('pages.index')->with('title', $title);
     }
 
-    public function about() {
+    public function portfolio() {
         $title = 'Portfólio';
         return view('pages.about')->with('title', $title);
     }
 
-    public function services() {
+    public function experiencias() {
         $data = array(
             'title' => 'Experiências Profissionais',
             'services' => ['Tetra Pak:
