@@ -12,8 +12,8 @@
 */
 
 Route::get('/', 'PagesController@index');
-Route::get('/about', 'PagesController@about');
-Route::get('/services', 'PagesController@services');
+Route::get('/portfolio', 'PagesController@portfolio');
+Route::get('/experiencias', 'PagesController@experiencias');
 
 Route::resource('posts', 'PostsController');
 
