@@ -14,10 +14,10 @@
 
             <ul class="navbar-nav me-auto mb-2 mb-md-0 ml auto">
               <li class="nav-item">
-                <a class="nav-link" href="/about">Portfólio</a>
+                <a class="nav-link" href="/portfolio">Portfólio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/services">Experiências</a>
+                <a class="nav-link" href="/experiencias">Experiências</a>
               </li>
             </ul>
 
