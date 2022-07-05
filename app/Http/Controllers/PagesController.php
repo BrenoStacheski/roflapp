@@ -39,4 +39,9 @@ class PagesController extends Controller
         );
         return view('pages.experiencias')->with($data);
     }
+
+    public function about() {
+        $title = 'About';
+        return view('pages.about')->with('title', $title);
+    }
 }
